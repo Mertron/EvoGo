@@ -10,6 +10,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        // Hello
+
         // Example of a call to a native method
         sample_text.text = stringFromJNI()
     }
