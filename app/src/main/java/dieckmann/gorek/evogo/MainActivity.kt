@@ -12,6 +12,8 @@ class MainActivity : AppCompatActivity() {
 
         // Test Upload
 
+        //bumms
+
         // Example of a call to a native method
         sample_text.text = stringFromJNI()
     }
