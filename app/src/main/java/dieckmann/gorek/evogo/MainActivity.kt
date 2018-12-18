@@ -10,13 +10,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        // Test Upload
-
-        //bumms
-
-        // doppelbums
-
-        //trippel Bumms
         // Example of a call to a native method
         sample_text.text = stringFromJNI()
     }
